@@ -44,8 +44,10 @@ nav ul li a {
     text-decoration: none;
 }
 .hero {
-    text-align: center;
-    padding: 5rem 1rem;
+    <footer>
+        <p>Coded by Sandra Chinouya & hosted on Netlyfy</p>
+    </footer>
+
 }
 
 .hero .btn {
