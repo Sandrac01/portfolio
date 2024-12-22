@@ -170,10 +170,17 @@ footer {
 }
 
 .contact {
-    text-align: center;
-    margin-bottom: -10px;
+   text-align: center;
+    margin-bottom: -10px; 
+    opacity: 0.6;
+}
+.contact1 {
+    text-decoration: underline;
+opacity: 0.4;
+ text-align: center;
+    margin-bottom: -10px;    
 }
 .container {
    
-    justify-content: space-evenly;
+    justify-content:space-evenly;
 }
